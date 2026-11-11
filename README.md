@@ -25,6 +25,13 @@ A task manager supporting add, view, complete and delete.
 - Working with generic collections ('List<T>')
 - Range-checked input validation to safely access list items
 
+### Calculator App
+A calculator app supporting add, subtract, divide, multiply and an option to quit
+- Separate methods for each operation
+- Menu-driven loop using a 'switch' statement with a 'default' case for invalid input
+- Robust input validation with 'decimal.TryParse', re-prompting until valid
+- Handles division by zero gracefully instead of crashing.
+
 ## Built with
 - C# / .NET 10
 - Visual Studio
