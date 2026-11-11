@@ -3,6 +3,7 @@
     <File Path="README.md" />
   </Folder>
   <Project Path="C#_Practice/C#_Practice.csproj" />
+  <Project Path="Calculator App/Calculator App.csproj" Id="0badfbec-dd5f-4256-816f-83cb9f02b12a" />
   <Project Path="Console to-do list/Console to-do list.csproj" Id="578ff8bb-1dd2-48af-8a8e-61922a16e157" />
   <Project Path="Temperature Converter/Temperature Converter.csproj" Id="49b9dd39-7c59-4fd2-878a-6833d78bce51" />
 </Solution>
